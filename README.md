@@ -21,7 +21,12 @@ Pyersinia is a similar tool to Yersinia, but Pyersinia is implemented in Python 
 Novedades // What's new?
 -----------
 
+Añadir nuevos ataques a la herramienta se hace una tarea bastante sencilla debido a que la 
+herramienta esta implementada sobre el framework STB (Security Tool Builder). Mediante 
+plugins se podrán añadir los nuevos ataques de red. 
 
+Adding new attacks on the tool is a simple task because we use the framework STB (Security Tool Builder). 
+The new attacks are added by plugins. 
 
 Installation
 ------------
