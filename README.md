@@ -7,10 +7,9 @@ Pyersinia
 *Herramienta para ataques de red // Network Attack Tool*
 
 
-*VERSION 1.0.3*
-
 Code | https://github.com/nottinghamprisateam/pyersinia
 ---- | ----------------------------------------------
+Final version | 1.0.3
 Issues | https://github.com/nottinghamprisateam/pyersinia/issues/
 Python version | Python 3 & 2
 
