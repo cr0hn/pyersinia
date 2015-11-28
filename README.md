@@ -21,9 +21,7 @@ Pyersinia is a similar tool to Yersinia, but Pyersinia is implemented in Python 
 Novedades // What's new?
 -----------
 
-Pyersinia incluye un ataque nuevo que consiste en DHCP DoS. A día de hoy, Pyersinia no implementa muchos de los ataques que hay en Yersinia. Se espera que la comunidad los añada a lo largo del tiempo.
 
-Yersinia includes a new attack consisting of DHCP DoS. Today, Pyersinia don’t implement many of the attacks that are in Yersinia. These attacks could be added by the community in the future.
 
 Installation
 ------------
