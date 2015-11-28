@@ -1,10 +1,8 @@
-Pyersinia
-=========
+Pyersinia: Network Attack Tool
+==============================
 
 
 ![Logo](https://raw.githubusercontent.com/abirtone/STB/master/stb_lib/doc/images/logo.png)
-
-*Herramienta para ataques de red // Network Attack Tool*
 
 
 Code | https://github.com/nottinghamprisateam/pyersinia
